@@ -1,0 +1,100 @@
+
+
+.app-title {
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+    color: White;
+    padding-top: 25px;
+}
+nav {
+    text-align: right;
+    background-color: black;
+    border: solid 3px black;
+}
+
+.nav-item {
+    text-align: right;
+    color: white;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.title {
+    font-size: 20px;
+    text-align: center;
+    background-color: #696969;
+    color: white;
+    border: solid 2px black;
+    height: auto;
+    width: 75%;
+    margin-left: 12%;
+}
+
+img {
+    float: inherit;
+    padding-left: 25%;
+    width: 50%;
+    height: 50%;
+}
+
+body {
+    background-color: #696969;
+    height: auto;
+    width: auto;
+}
+
+figcaption {
+    text-align: center;
+    color: white;
+    font-size: smaller;
+}
+
+.container {
+    text-align: center;
+    color: white;
+    border: solid 2px black;
+    width: 55%;
+    margin-left: 22%;
+    
+}
+
+p {
+    text-align: left;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+ul {
+    font-size: medium;
+    font-weight: bold;
+}
+
+h3 {
+    color: black;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+a {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+
+
